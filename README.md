@@ -1,1 +1,1 @@
-# Structural-Semantic-Lexicon-Fusion-SSLF
+# Slang-aware Label-Aligned Framework
